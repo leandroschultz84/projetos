@@ -17,7 +17,7 @@
  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <div><br/>
 
-### Sobre o autor:
+## Sobre o autor:
 Desenvolvedor de Software e Entusiasta de Tecnologia.
 
 Apaixonado por tecnologia e programação, procuro me desenvolver em diversas linguagens de programação, incluindo Python, JavaScript e C. 
