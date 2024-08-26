@@ -1,4 +1,5 @@
 
+
 ### Olá! Me chamo Leandro Schultz 🖥️
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-schultz-aa511924)
@@ -16,6 +17,7 @@
  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <div><br/>
 
+### Sobre o autor:
 Desenvolvedor de Software e Entusiasta de Tecnologia.
 
 Apaixonado por tecnologia e programação, procuro me desenvolver em diversas linguagens de programação, incluindo Python, JavaScript e C. 
