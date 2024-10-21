@@ -93,6 +93,32 @@ while True:
         print("-------------------------------------------------------------------")    
 
 
+class Cliente:
+    def __init__(self, nome, cpf, endereco):
+        self.nome = nome
+        self.cpf = cpf
+        self.endereco = endereco
+
+class ContaBancaria:
+    def __init__(self, numero, cliente, saldo_inicial=0):
+        self.numero = numero
+        self.cliente = cliente
+        self.saldo = saldo_inicial
+
+
+def cadastrar_cliente(nome, cpf, endereco):
+    return Cliente(nome, cpf, endereco)
+
+def cadastrar_conta_bancaria(numero, cliente, saldo_inicial=0):
+    return ContaBancaria(numero, cliente, saldo_inicial)
+
+cliente1 = cadastrar_cliente('João Silva', '123.456.789-00', 'Rua A, 123')
+conta1 = cadastrar_conta_bancaria('001', cliente1, 1000.0)
+
+print(f'Cliente: {cliente1.nome}, CPF: {cliente1.cpf}, Endereço: {cliente1.endereco}')
+print(f'Conta: {conta1.numero}, Cliente: {conta1.cliente.nome}, Saldo: {conta1.saldo}')
+
+
 
 
 
